@@ -8,6 +8,17 @@ from PyQt4.QtCore import QByteArray
 from PyQt4.QtCore import QTimer
 
 
+class MyObject(QObject):
+    sig1 = pyqtSignal()
+    sig2 = pyqtSignal()
+
+    def __init__(self):
+        QObject.__init__(self)
+
+    def addSome(self, val):
+        self.sig1.emit(val)
+
+
 class Console(QtGui.QPlainTextEdit):
 
     def __init__(self):
@@ -52,10 +63,14 @@ class Gui(QtGui.QWidget):
             self.button3 = QtGui.QPushButton()
             self.button3.setText("Echo test")
             self.button3.setMinimumSize(100, 25)
+            self.button3.clicked.connect(self.hButton3)
             self.addWidget(self.text)
             self.addWidget(self.button1)
             self.addWidget(self.button2)
             self.addWidget(self.button3)
+
+        def hButton3(self):
+            print("Clicked b3")
 
     def __init__(self):
         super(Gui, self).__init__()
