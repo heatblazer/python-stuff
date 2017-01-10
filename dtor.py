@@ -16,10 +16,9 @@ class A():
 
 
 def main():
-
     if True:
         a = A()
-
+    
     print("Exiting main...")
 
 if __name__ == "__main__":
