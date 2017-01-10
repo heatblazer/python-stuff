@@ -12,6 +12,9 @@ def passAList(lstref=[]):
             print(i)
 
 
+def passConstList(cref=[]):
+    pass
+
 def passATuple(tulref=()):
     if not isinstance(tulref, tuple):
         raise ValueError("Expecting a tuple reference: ()")
@@ -29,5 +32,11 @@ def passAMap(mapref={}):
 def main():
     passAList([1,2,3,4,5,6])
     passAMap({"name":"maria", "age":10, "town":"unknown"})
+
+    # example how to prevent mutabling the list
+    # the def immutable(ref[:]): gives me an error...
+    l = [1,2,3,45,6,777]
+    passATuple(tuple(l))
+
 if __name__ == "__main__":
     main()
