@@ -12,9 +12,6 @@ def passAList(lstref=[]):
             print(i)
 
 
-def passConstList(cref=[]):
-    pass
-
 def passATuple(tulref=()):
     if not isinstance(tulref, tuple):
         raise ValueError("Expecting a tuple reference: ()")
