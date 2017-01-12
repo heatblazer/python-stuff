@@ -1,7 +1,7 @@
 """experimenting with out of scope objects and destrution"""
 
-class A():
 
+class A(object):
     def __init__(self):
         print("A()")
 
@@ -18,9 +18,9 @@ class A():
 def main():
     if True:
         a = A()
-    
+
     print("Exiting main...")
+
 
 if __name__ == "__main__":
     main()
-
