@@ -1,5 +1,6 @@
 import sys
 
+
 def main(args=()):
     for a in args:
         print(args)
