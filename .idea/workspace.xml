@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20f4308c-7eac-4277-9caa-fadcb2d094a3" name="Default" comment="added few more tests">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/blenderstuff.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rpctest/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rpctest/rpcclient.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rpctest/rpcserver.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+    <list default="true" id="20f4308c-7eac-4277-9caa-fadcb2d094a3" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filetest.py" afterPath="$PROJECT_DIR$/filetest.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.txt" afterPath="$PROJECT_DIR$/test.txt" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
