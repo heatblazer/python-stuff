@@ -3,6 +3,7 @@ from matplotlib import pyplot
 from mpl_toolkits import mplot3d
 
 figure = pyplot.figure()
+
 axes = mplot3d.Axes3D(figure)
 
 my_mesh = mesh.Mesh.from_file("untitled.stl")

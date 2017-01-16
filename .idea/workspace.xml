@@ -2,99 +2,841 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20f4308c-7eac-4277-9caa-fadcb2d094a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.scene.obj.swo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.scene.obj.swp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/untitled.stl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/.eggs/pytest_runner-2.9-py2.7.egg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/dist/numpy_stl-2.2.0-py2.7.egg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/keybd_closed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/keybd_open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_binary/HalfDonut.stl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_binary/Moon.stl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_binary/Star.stl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_binary/StarWithEmptyHeader.stl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stltests/untitled.stl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scene.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/.eggs/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/MANIFEST.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/PKG-INFO" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/README.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/__about__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/base.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/mesh.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/stl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/flask_theme_support.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/wolph/layout.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/wolph/relations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/wolph/static/flasky.css_t" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/wolph/static/small_flask.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/wolph/theme.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/conf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/make.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/stl.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/tests.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/usage.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/numpy_stl.egg-info/PKG-INFO" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/numpy_stl.egg-info/SOURCES.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/numpy_stl.egg-info/dependency_links.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/numpy_stl.egg-info/entry_points.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/numpy_stl.egg-info/requires.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/numpy_stl.egg-info/top_level.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/setup.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/__about__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/_speedups.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/_speedups.pyx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/base.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/mesh.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/stl.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/utils.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/.coverage" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/conftest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl___about___py.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl___init___py.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl_base_py.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl_main_py.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl_mesh_py.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl_stl_py.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl_utils_py.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/coverage_html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/jquery.debounce.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/jquery.hotkeys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/jquery.isonscreen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/jquery.tablesorter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/status.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_ascii/HalfDonut.stl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_ascii/Moon.stl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_ascii/Star.stl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_corruption.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_ascii.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_commandline.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_convert.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_mesh.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_meshProperties.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_multiple.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_rotate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/scene.mtl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/scene.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stltests/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stltests/stlrenrer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_images/plottingClasses.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/comment-bright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/comment-close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/comment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/down-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/down.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/up-pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/objects.inv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/images/plottingClasses.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ScatterPlotSpeedTestTemplate.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/VideoTemplate.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/designerExample.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/exampleLoaderTemplate.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/optics/schott_glasses.csv.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/GraphicsScene/exportDialogTemplate.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/canvas/CanvasTemplate.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/canvas/TransformGuiTemplate.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/console/template.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/FlowchartCtrlTemplate.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/FlowchartTemplate.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/PlotItem/plotConfigTemplate.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ViewBox/axisCtrlTemplate.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/imageview/ImageViewTemplate.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/tests/uictest.ui" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/CHANGELOG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/MANIFEST.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/.buildinfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/3dgraphics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/3dgraphics/glaxisitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/3dgraphics/glgraphicsitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/3dgraphics/glgriditem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/3dgraphics/glimageitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/3dgraphics/gllineplotitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/3dgraphics/glmeshitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/3dgraphics/glscatterplotitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/3dgraphics/glsurfaceplotitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/3dgraphics/glviewwidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/3dgraphics/glvolumeitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/3dgraphics/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/3dgraphics/meshdata.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/GraphicsScene/GraphicsScene.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/GraphicsScene/mouseEvents.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/colormap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/console/Console.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/flowchart/Flowchart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/flowchart/Node.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/flowchart/Terminal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/functions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/ArrowItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/AxisItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/ButtonItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/CurvePoint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/ErrorBarItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/FillBetweenItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/GradientEditorItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/GradientLegend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/GraphItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/GraphicsItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/GraphicsLayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/GraphicsObject.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/GraphicsWidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/GraphicsWidgetAnchor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/GridItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/HistogramLUTItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/ImageItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/InfiniteLine.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/IsocurveItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/LabelItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/LegendItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/LinearRegionItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/PlotCurveItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/PlotDataItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/PlotItem/PlotItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/ROI.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/ScaleBar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/ScatterPlotItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/TextItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/UIGraphicsItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/VTickGroup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/graphicsItems/ViewBox/ViewBox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/imageview/ImageView.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/opengl/GLGraphicsItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/opengl/GLViewWidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/opengl/MeshData.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/opengl/items/GLAxisItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/opengl/items/GLGridItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/opengl/items/GLImageItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/opengl/items/GLLinePlotItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/opengl/items/GLMeshItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/opengl/items/GLScatterPlotItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/opengl/items/GLSurfacePlotItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/opengl/items/GLVolumeItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/parametertree/Parameter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/parametertree/ParameterItem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/parametertree/ParameterTree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/parametertree/parameterTypes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/BusyCursor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/CheckTable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/ColorButton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/ColorMapWidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/ComboBox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/DataTreeWidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/FeedbackButton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/FileDialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/GradientWidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/GraphicsLayoutWidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/GraphicsView.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/HistogramLUTWidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/JoystickButton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/LayoutWidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/MultiPlotWidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/PathButton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/PlotWidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/ProgressDialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/RemoteGraphicsView.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/ScatterPlotWidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/SpinBox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/TableWidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/TreeWidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/ValueLabel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_modules/pyqtgraph/widgets/VerticalLabel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/3dgraphics.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/3dgraphics/glaxisitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/3dgraphics/glgraphicsitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/3dgraphics/glgriditem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/3dgraphics/glimageitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/3dgraphics/gllineplotitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/3dgraphics/glmeshitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/3dgraphics/glscatterplotitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/3dgraphics/glsurfaceplotitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/3dgraphics/glviewwidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/3dgraphics/glvolumeitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/3dgraphics/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/3dgraphics/meshdata.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/apireference.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/colormap.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/config_options.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/exporting.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/flowchart/flowchart.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/flowchart/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/flowchart/node.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/flowchart/terminal.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/functions.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/arrowitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/axisitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/buttonitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/curvearrow.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/curvepoint.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/errorbaritem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/fillbetweenitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/gradienteditoritem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/gradientlegend.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/graphicsitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/graphicslayout.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/graphicsobject.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/graphicswidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/graphicswidgetanchor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/graphitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/griditem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/histogramlutitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/imageitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/infiniteline.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/isocurveitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/labelitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/legenditem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/linearregionitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/plotcurveitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/plotdataitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/plotitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/roi.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/scalebar.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/scatterplotitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/textitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/uigraphicsitem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/viewbox.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsItems/vtickgroup.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsscene/graphicsscene.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsscene/hoverevent.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsscene/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsscene/mouseclickevent.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicsscene/mousedragevent.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/graphicswindow.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/how_to_use.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/images.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/installation.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/internals.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/introduction.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/mouse_interaction.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/parametertree/apiref.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/parametertree/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/parametertree/parameter.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/parametertree/parameteritem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/parametertree/parametertree.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/parametertree/parametertypes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/plotting.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/prototyping.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/qtcrashcourse.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/region_of_interest.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/style.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/busycursor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/checktable.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/colorbutton.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/colormapwidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/combobox.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/consolewidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/datatreewidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/dockarea.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/feedbackbutton.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/filedialog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/gradientwidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/graphicslayoutwidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/graphicsview.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/histogramlutwidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/imageview.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/index.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/joystickbutton.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/layoutwidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/matplotlibwidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/multiplotwidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/parametertree.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/pathbutton.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/plotwidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/progressdialog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/rawimagewidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/remotegraphicsview.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/scatterplotwidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/spinbox.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/tablewidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/treewidget.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/valuelabel.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_sources/widgets/verticallabel.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/basic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/classic.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/doctools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/pygments.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/searchtools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/sidebar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/_static/websupport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/apireference.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/colormap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/config_options.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/exporting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/flowchart/flowchart.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/flowchart/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/flowchart/node.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/flowchart/terminal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/functions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/genindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/arrowitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/axisitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/buttonitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/curvearrow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/curvepoint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/errorbaritem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/fillbetweenitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/gradienteditoritem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/gradientlegend.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/graphicsitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/graphicslayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/graphicsobject.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/graphicswidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/graphicswidgetanchor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/graphitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/griditem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/histogramlutitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/imageitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/infiniteline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/isocurveitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/labelitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/legenditem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/linearregionitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/plotcurveitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/plotdataitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/plotitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/roi.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/scalebar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/scatterplotitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/textitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/uigraphicsitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/viewbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsItems/vtickgroup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsscene/graphicsscene.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsscene/hoverevent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsscene/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsscene/mouseclickevent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicsscene/mousedragevent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/graphicswindow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/how_to_use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/images.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/installation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/internals.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/introduction.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/mouse_interaction.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/parametertree/apiref.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/parametertree/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/parametertree/parameter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/parametertree/parameteritem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/parametertree/parametertree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/parametertree/parametertypes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/plotting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/prototyping.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/py-modindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/qtcrashcourse.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/region_of_interest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/searchindex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/style.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/busycursor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/checktable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/colorbutton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/colormapwidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/combobox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/consolewidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/datatreewidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/dockarea.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/feedbackbutton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/filedialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/gradientwidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/graphicslayoutwidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/graphicsview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/histogramlutwidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/imageview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/joystickbutton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/layoutwidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/matplotlibwidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/multiplotwidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/parametertree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/pathbutton.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/plotwidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/progressdialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/rawimagewidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/remotegraphicsview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/scatterplotwidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/spinbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/tablewidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/treewidget.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/valuelabel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/build/html/widgets/verticallabel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/extensions/qt_doc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/listmissing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/make.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/3dgraphics.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/3dgraphics/glaxisitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/3dgraphics/glgraphicsitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/3dgraphics/glgriditem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/3dgraphics/glimageitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/3dgraphics/gllineplotitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/3dgraphics/glmeshitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/3dgraphics/glscatterplotitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/3dgraphics/glsurfaceplotitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/3dgraphics/glviewwidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/3dgraphics/glvolumeitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/3dgraphics/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/3dgraphics/meshdata.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/apireference.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/colormap.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/conf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/config_options.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/exporting.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/flowchart/flowchart.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/flowchart/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/flowchart/node.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/flowchart/terminal.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/functions.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/arrowitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/axisitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/buttonitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/curvearrow.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/curvepoint.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/errorbaritem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/fillbetweenitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/gradienteditoritem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/gradientlegend.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/graphicsitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/graphicslayout.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/graphicsobject.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/graphicswidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/graphicswidgetanchor.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/graphitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/griditem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/histogramlutitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/imageitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/infiniteline.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/isocurveitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/labelitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/legenditem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/linearregionitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/plotcurveitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/plotdataitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/plotitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/roi.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/scalebar.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/scatterplotitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/textitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/uigraphicsitem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/viewbox.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsItems/vtickgroup.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsscene/graphicsscene.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsscene/hoverevent.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsscene/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsscene/mouseclickevent.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicsscene/mousedragevent.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/graphicswindow.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/how_to_use.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/images.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/images/plottingClasses.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/installation.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/internals.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/introduction.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/mouse_interaction.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/parametertree/apiref.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/parametertree/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/parametertree/parameter.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/parametertree/parameteritem.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/parametertree/parametertree.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/parametertree/parametertypes.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/plotting.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/prototyping.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/qtcrashcourse.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/region_of_interest.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/style.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/busycursor.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/checktable.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/colorbutton.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/colormapwidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/combobox.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/consolewidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/datatreewidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/dockarea.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/feedbackbutton.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/filedialog.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/gradientwidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/graphicslayoutwidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/graphicsview.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/histogramlutwidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/imageview.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/joystickbutton.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/layoutwidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/matplotlibwidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/multiplotwidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/parametertree.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/pathbutton.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/plotwidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/progressdialog.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/rawimagewidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/remotegraphicsview.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/scatterplotwidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/spinbox.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/tablewidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/treewidget.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/valuelabel.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/doc/source/widgets/verticallabel.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/Arrow.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/BarGraphItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/CLIexample.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ColorButton.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ConsoleWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/CustomGraphItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/DataSlicing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/DataTreeWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/Draw.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ErrorBarItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/FillBetweenItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/Flowchart.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/FlowchartCustomNode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GLBarGraphItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GLImageItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GLIsosurface.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GLLinePlotItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GLMeshItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GLScatterPlotItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GLSurfacePlot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GLViewWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GLVolumeItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GLshaders.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GradientEditor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GradientWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GraphItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GraphicsLayout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GraphicsScene.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/HistogramLUT.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ImageItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ImageView.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/InfiniteLine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/JoystickButton.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/Legend.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/LogPlotTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/MouseSelection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/MultiPlotSpeedTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/MultiPlotWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/MultiplePlotAxes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/PanningPlot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/PlotAutoRange.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/PlotSpeedTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/PlotWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/Plotting.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ROIExamples.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ROItypes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/RemoteGraphicsView.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/RemoteSpeedTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ScaleBar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ScatterPlot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ScatterPlotSpeedTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ScatterPlotSpeedTestTemplate_pyqt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ScatterPlotSpeedTestTemplate_pyside.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ScatterPlotWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/SimplePlot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/SpinBox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/Symbols.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/TableWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/TreeWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/VideoSpeedTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/VideoTemplate_pyqt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/VideoTemplate_pyside.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ViewBox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ViewBoxFeatures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/ViewLimits.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/__main__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/beeswarm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/contextMenu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/crosshair.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/customGraphicsItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/customPlot.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/cx_freeze/plotTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/cx_freeze/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/designerExample.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/dockarea.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/exampleLoaderTemplate_pyqt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/exampleLoaderTemplate_pyqt5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/exampleLoaderTemplate_pyside.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/hdf5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/histogram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/imageAnalysis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/infiniteline_performance.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/initExample.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/isocurve.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/linkedViews.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/logAxis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/multiplePlotSpeedTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/multiprocess.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/optics/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/optics/pyoptic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/optics_demos.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/parallelize.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/parametertree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/py2exe/plotTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/py2exe/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/relativity/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/relativity/presets/Grid Expansion.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/relativity/presets/Twin Paradox (grid).cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/relativity/presets/Twin Paradox.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/relativity/relativity.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/relativity_demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/scrollingPlots.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/template.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/test_examples.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/text.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/verlet_chain/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/verlet_chain/chain.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/verlet_chain/relax.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/verlet_chain_demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/GraphicsScene/GraphicsScene.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/GraphicsScene/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/GraphicsScene/exportDialog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/GraphicsScene/exportDialogTemplate_pyqt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/GraphicsScene/exportDialogTemplate_pyqt5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/GraphicsScene/exportDialogTemplate_pyside.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/GraphicsScene/mouseEvents.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/PlotData.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/Point.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/Qt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/SRTTransform.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/SRTTransform3D.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/SignalProxy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/ThreadsafeTimer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/Transform3D.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/Vector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/WidgetGroup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/canvas/Canvas.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/canvas/CanvasItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/canvas/CanvasManager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/canvas/CanvasTemplate_pyqt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/canvas/CanvasTemplate_pyqt5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/canvas/CanvasTemplate_pyside.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/canvas/TransformGuiTemplate_pyqt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/canvas/TransformGuiTemplate_pyqt5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/canvas/TransformGuiTemplate_pyside.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/canvas/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/colormap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/configfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/console/CmdInput.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/console/Console.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/console/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/console/template_pyqt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/console/template_pyqt5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/console/template_pyside.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/debug.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/dockarea/Container.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/dockarea/Dock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/dockarea/DockArea.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/dockarea/DockDrop.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/dockarea/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/dockarea/tests/test_dock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/exceptionHandling.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/exporters/CSVExporter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/exporters/Exporter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/exporters/HDF5Exporter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/exporters/ImageExporter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/exporters/Matplotlib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/exporters/PrintExporter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/exporters/SVGExporter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/exporters/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/exporters/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/exporters/tests/test_csv.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/exporters/tests/test_svg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/Flowchart.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/FlowchartCtrlTemplate_pyqt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/FlowchartCtrlTemplate_pyqt5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/FlowchartCtrlTemplate_pyside.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/FlowchartGraphicsView.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/FlowchartTemplate_pyqt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/FlowchartTemplate_pyqt5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/FlowchartTemplate_pyside.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/Node.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/NodeLibrary.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/Terminal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/library/Data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/library/Display.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/library/Filters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/library/Operators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/library/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/library/common.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/flowchart/library/functions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/frozenSupport.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/functions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ArrowItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/AxisItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/BarGraphItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ButtonItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/CurvePoint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ErrorBarItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/FillBetweenItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/GradientEditorItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/GradientLegend.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/GraphItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/GraphicsItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/GraphicsLayout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/GraphicsObject.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/GraphicsWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/GraphicsWidgetAnchor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/GridItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/HistogramLUTItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ImageItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/InfiniteLine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/IsocurveItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ItemGroup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/LabelItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/LegendItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/LinearRegionItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/MultiPlotItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/PlotCurveItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/PlotDataItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/PlotItem/PlotItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/PlotItem/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/PlotItem/plotConfigTemplate_pyqt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/PlotItem/plotConfigTemplate_pyqt5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/PlotItem/plotConfigTemplate_pyside.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ROI.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ScaleBar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ScatterPlotItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/TextItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/UIGraphicsItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/VTickGroup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ViewBox/ViewBox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ViewBox/ViewBoxMenu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ViewBox/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ViewBox/axisCtrlTemplate_pyqt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ViewBox/axisCtrlTemplate_pyqt5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ViewBox/axisCtrlTemplate_pyside.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/ViewBox/tests/test_ViewBox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/tests/test_GraphicsItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/tests/test_ImageItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/tests/test_InfiniteLine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/tests/test_PlotCurveItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/tests/test_ROI.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsItems/tests/test_ScatterPlotItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/graphicsWindows.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/imageview/ImageView.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/imageview/ImageViewTemplate_pyqt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/imageview/ImageViewTemplate_pyqt5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/imageview/ImageViewTemplate_pyside.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/imageview/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/imageview/tests/test_imageview.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/metaarray/MetaArray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/metaarray/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/metaarray/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/metaarray/readMeta.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/multiprocess/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/multiprocess/bootstrap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/multiprocess/parallelizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/multiprocess/processes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/multiprocess/remoteproxy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/numpy_fix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/GLGraphicsItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/GLViewWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/MeshData.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/glInfo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/items/GLAxisItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/items/GLBarGraphItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/items/GLBoxItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/items/GLGridItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/items/GLImageItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/items/GLLinePlotItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/items/GLMeshItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/items/GLScatterPlotItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/items/GLSurfacePlotItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/items/GLVolumeItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/items/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/opengl/shaders.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/ordereddict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/parametertree/Parameter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/parametertree/ParameterItem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/parametertree/ParameterSystem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/parametertree/ParameterTree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/parametertree/SystemSolver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/parametertree/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/parametertree/parameterTypes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/parametertree/tests/test_parametertypes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/pgcollections.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/pixmaps/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/pixmaps/compile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/pixmaps/pixmapData_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/pixmaps/pixmapData_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/ptime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/python2_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/reload.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/tests/image_testing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/tests/test_exit_crash.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/tests/test_functions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/tests/test_qt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/tests/test_ref_cycles.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/tests/test_srttransform3d.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/tests/test_stability.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/tests/ui_testing.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/units.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/util/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/util/colorama/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/util/colorama/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/util/colorama/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/util/colorama/win32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/util/colorama/winterm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/util/cprint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/util/garbage_collector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/util/lru_cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/util/mutex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/util/pil_fix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/util/tests/test_lru_cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/BusyCursor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/CheckTable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/ColorButton.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/ColorMapWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/ComboBox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/DataFilterWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/DataTreeWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/FeedbackButton.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/FileDialog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/GradientWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/GraphicsLayoutWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/GraphicsView.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/HistogramLUTWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/JoystickButton.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/LayoutWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/MatplotlibWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/MultiPlotWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/PathButton.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/PlotWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/ProgressDialog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/RawImageWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/RemoteGraphicsView.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/ScatterPlotWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/SpinBox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/TableWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/TreeWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/ValueLabel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/VerticalLabel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/tests/test_combobox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/widgets/tests/test_tablewidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/setup.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/tools/generateChangelog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/tools/pg-release.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/tools/py2exe.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/tools/py2exeSetupWindows.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/tools/pyuic5" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/tools/rebuildUi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/tools/release_instructions.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/tools/setupHelpers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/tools/shell.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stltests/stlrenrer.py" afterPath="$PROJECT_DIR$/stltests/stlrenrer.py" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -114,14 +856,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stlrenrer.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stltests/stlrenrer.py">
+      <file leaf-file-name="customGraphicsItem.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/customGraphicsItem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomGraphItem.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/CustomGraphItem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JoystickButton.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/JoystickButton.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-400">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimplePlot.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/SimplePlot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#0#20#0" expanded="true" />
+                <element signature="e#0#83#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpinBox.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/SpinBox.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1723">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GraphicsScene.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/GraphicsScene.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#89#107#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GLMeshItem.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/GLMeshItem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1887">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#152#170#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GLshaders.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/GLshaders.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GLBarGraphItem.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/GLBarGraphItem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GLImageItem.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/GLImageItem.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -267,6 +1103,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyqtgraph" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-stuff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pyqtgraph" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -284,88 +1152,88 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.stlrenrer">
-    <configuration default="false" name="stl_corruption" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.CustomGraphItem">
+    <configuration default="false" name="GLshaders" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqtgraph/examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_corruption.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqtgraph/examples/GLshaders.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test_rotate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="GLBarGraphItem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqtgraph/examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_rotate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqtgraph/examples/GLBarGraphItem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test_multiple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="GLImageItem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqtgraph/examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_multiple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqtgraph/examples/GLImageItem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="test_ascii" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="customGraphicsItem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqtgraph/examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_ascii.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqtgraph/examples/customGraphicsItem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="stlrenrer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="CustomGraphItem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stltests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqtgraph/examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stltests/stlrenrer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqtgraph/examples/CustomGraphItem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -518,19 +1386,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.stl_corruption" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test_rotate" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test_multiple" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test_ascii" />
-      <item index="4" class="java.lang.String" itemvalue="Python.stlrenrer" />
+      <item index="0" class="java.lang.String" itemvalue="Python.GLshaders" />
+      <item index="1" class="java.lang.String" itemvalue="Python.GLBarGraphItem" />
+      <item index="2" class="java.lang.String" itemvalue="Python.GLImageItem" />
+      <item index="3" class="java.lang.String" itemvalue="Python.customGraphicsItem" />
+      <item index="4" class="java.lang.String" itemvalue="Python.CustomGraphItem" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.stlrenrer" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_multiple" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test_rotate" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test_ascii" />
-        <item index="4" class="java.lang.String" itemvalue="Python.stl_corruption" />
+        <item index="0" class="java.lang.String" itemvalue="Python.CustomGraphItem" />
+        <item index="1" class="java.lang.String" itemvalue="Python.customGraphicsItem" />
+        <item index="2" class="java.lang.String" itemvalue="Python.GLImageItem" />
+        <item index="3" class="java.lang.String" itemvalue="Python.GLBarGraphItem" />
+        <item index="4" class="java.lang.String" itemvalue="Python.GLshaders" />
       </list>
     </recent_temporary>
   </component>
@@ -606,7 +1474,8 @@
     <MESSAGE value="added few more tests" />
     <MESSAGE value="some gl stuff, obj loader and others" />
     <MESSAGE value="pyglet and pywavefront added" />
-    <option name="LAST_COMMIT_MESSAGE" value="pyglet and pywavefront added" />
+    <MESSAGE value="stl cad viewer" />
+    <option name="LAST_COMMIT_MESSAGE" value="stl cad viewer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -641,71 +1510,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/c-module/simple-module.c" />
-    <entry file="file://$PROJECT_DIR$/singleton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pakcage-test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/widget.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dtor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib/python3.4/site-packages/OpenGL/GL/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/lib64/python3.4/ctypes/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="240" column="18" selection-start-line="240" selection-start-column="18" selection-end-line="240" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmEdu30/system/python_stubs/-1247971765/PyQt5/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmEdu30/system/python_stubs/-1247971765/PyQt5/QtWidgets/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blenderstuff.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -971,7 +1775,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#0#37#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -997,7 +1801,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#0#12#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1007,7 +1811,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#0#12#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1027,7 +1831,7 @@
         <state relative-caret-position="51">
           <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1037,18 +1841,104 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#20#0" expanded="true" />
+            <element signature="e#0#20#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stltests/stlrenrer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/JoystickButton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-400">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/SimplePlot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/SpinBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1723">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/GraphicsScene.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#89#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/GLshaders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/GLBarGraphItem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/GLImageItem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/GLMeshItem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1887">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#152#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/customGraphicsItem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyqtgraph/examples/CustomGraphItem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
