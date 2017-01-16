@@ -2,9 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20f4308c-7eac-4277-9caa-fadcb2d094a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wavefronttest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/earthmap.2k.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/terran.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/3x4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/4x4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/earth.mtl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/earth.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/pyglet_demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/pyglet_demo2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/uv_sphere.mtl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/uv_sphere.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/pywavefront/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/pywavefront/material.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/pywavefront/mesh.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/pywavefront/parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/pywavefront/texture.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/simple.mtl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/simple.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/simple_missing_normals.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/simple_unknown_usemtl.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/test_material.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/test_mesh.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/test_parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/test_texture.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/test_wavefront.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gltest.py" afterPath="$PROJECT_DIR$/gltest.py" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -654,7 +681,8 @@
     <MESSAGE value="added README" />
     <MESSAGE value="added few more tests" />
     <MESSAGE value="some gl stuff, obj loader and others" />
-    <option name="LAST_COMMIT_MESSAGE" value="some gl stuff, obj loader and others" />
+    <MESSAGE value="pyglet and pywavefront added" />
+    <option name="LAST_COMMIT_MESSAGE" value="pyglet and pywavefront added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
