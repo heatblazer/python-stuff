@@ -2,35 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20f4308c-7eac-4277-9caa-fadcb2d094a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/earthmap.2k.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/terran.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/3x4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/4x4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/earth.mtl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/earth.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/pyglet_demo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/pyglet_demo2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/uv_sphere.mtl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/uv_sphere.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/pywavefront/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/pywavefront/material.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/pywavefront/mesh.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/pywavefront/parser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/pywavefront/texture.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/simple.mtl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/simple.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/simple_missing_normals.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/simple_unknown_usemtl.obj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/test_material.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/test_mesh.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/test_parser.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/test_texture.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/test/test_wavefront.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.scene.obj.swo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/.scene.obj.swp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/untitled.stl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/.eggs/pytest_runner-2.9-py2.7.egg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/dist/numpy_stl-2.2.0-py2.7.egg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/keybd_closed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/keybd_open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_binary/HalfDonut.stl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_binary/Moon.stl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_binary/Star.stl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_binary/StarWithEmptyHeader.stl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stltests/untitled.stl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/scene.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/.eggs/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/MANIFEST.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/README.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/__about__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/mesh.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/stl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/build/lib/stl/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/flask_theme_support.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/wolph/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/wolph/relations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/wolph/static/flasky.css_t" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/wolph/static/small_flask.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/_theme/wolph/theme.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/conf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/make.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/stl.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/tests.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/docs/usage.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/numpy_stl.egg-info/PKG-INFO" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/numpy_stl.egg-info/SOURCES.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/numpy_stl.egg-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/numpy_stl.egg-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/numpy_stl.egg-info/requires.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/numpy_stl.egg-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/setup.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/__about__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/_speedups.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/_speedups.pyx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/mesh.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/stl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/stl/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/.coverage" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/conftest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl___about___py.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl___init___py.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl_base_py.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl_main_py.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl_mesh_py.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl_stl_py.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/_Users_rick_workspace_numpy-stl_stl_utils_py.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/coverage_html.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/jquery.debounce.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/jquery.hotkeys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/jquery.isonscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/jquery.tablesorter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/status.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/htmlcov/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_ascii/HalfDonut.stl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_ascii/Moon.stl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_ascii/Star.stl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_corruption.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_ascii.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_commandline.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_convert.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_mesh.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_meshProperties.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_multiple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_rotate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/scene.mtl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pywavefront/example/scene.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stltests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stltests/stlrenrer.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="untitled.iws" />
@@ -51,98 +114,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gltest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gltest.py">
+      <file leaf-file-name="stlrenrer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stltests/stlrenrer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            <state relative-caret-position="119">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
               <folding>
-                <element signature="e#0#10#0" expanded="true" />
+                <element signature="e#0#20#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gl4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gl4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2847">
-              <caret line="377" column="0" selection-start-line="377" selection-start-column="0" selection-end-line="377" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wavefronttest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wavefronttest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_parser.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pywavefront/test/test_parser.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_wavefront.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pywavefront/test/test_wavefront.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pywavefront/setup.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-196">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pywavefront/LICENSE">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pywavefront/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pyglet_demo.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pywavefront/example/pyglet_demo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -196,6 +175,12 @@
         <option value="$PROJECT_DIR$/gltest.py" />
         <option value="$PROJECT_DIR$/wavefronttest.py" />
         <option value="$PROJECT_DIR$/pywavefront/test/test_wavefront.py" />
+        <option value="$PROJECT_DIR$/pywavefront/example/pyglet_demo.py" />
+        <option value="$PROJECT_DIR$/pywavefront/example/scene.mtl" />
+        <option value="$PROJECT_DIR$/pywavefront/example/scene.obj" />
+        <option value="$PROJECT_DIR$/pywavefront/example/pyglet_demo2.py" />
+        <option value="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_rotate.py" />
+        <option value="$PROJECT_DIR$/stltests/stlrenrer.py" />
       </list>
     </option>
   </component>
@@ -278,53 +263,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="testpackage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rpctest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pywavefront" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-stuff" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pywavefront" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
+              <option name="myItemId" value="stltests" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -345,103 +284,88 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pyglet_demo">
-    <configuration default="false" name="gltest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.stlrenrer">
+    <configuration default="false" name="stl_corruption" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gltest.py" />
-      <option name="PARAMETERS" value="assets/scene.obj" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_corruption.py" />
+      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in test_parser" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pywavefront/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pywavefront/test/test_parser.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in test_wavefront" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pywavefront/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pywavefront/test/test_wavefront.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in setup" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pywavefront" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pywavefront/setup.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="pyglet_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="test_rotate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pywavefront/example" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pywavefront/example/pyglet_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_rotate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_multiple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_multiple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test_ascii" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_ascii.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="stlrenrer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stltests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stltests/stlrenrer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -594,19 +518,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.gltest" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_parser" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_wavefront" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in setup" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pyglet_demo" />
+      <item index="0" class="java.lang.String" itemvalue="Python.stl_corruption" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test_rotate" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test_multiple" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test_ascii" />
+      <item index="4" class="java.lang.String" itemvalue="Python.stlrenrer" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pyglet_demo" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in setup" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_wavefront" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_parser" />
-        <item index="4" class="java.lang.String" itemvalue="Python.gltest" />
+        <item index="0" class="java.lang.String" itemvalue="Python.stlrenrer" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test_multiple" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_rotate" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test_ascii" />
+        <item index="4" class="java.lang.String" itemvalue="Python.stl_corruption" />
       </list>
     </recent_temporary>
   </component>
@@ -631,7 +555,7 @@
     <frame x="-4" y="26" width="1374" height="746" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24441132" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24441132" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -717,121 +641,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/asterisk-gui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmEdu30/system/python_stubs/-1247971765/PyQt4/QtGui/QPlainTextEdit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3281">
-          <caret line="196" column="8" selection-start-line="196" selection-start-column="8" selection-end-line="196" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testpackage/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmEdu30/system/python_stubs/-1247972723/PyQt4/QtCore/QXmlStreamReader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="963" column="0" selection-start-line="963" selection-start-column="0" selection-end-line="963" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmEdu30/system/python_stubs/-1247972723/PyQt4/QtCore/QXmlStreamReader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmEdu30/system/python_stubs/-1247972723/PyQt4/QtCore/QThread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-989">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmEdu30/system/python_stubs/-1247971765/PyQt4/QtGui/QPlainTextEdit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3281">
-          <caret line="196" column="8" selection-start-line="196" selection-start-column="8" selection-end-line="196" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ctor-test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/asterisk-gui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="65" column="54" selection-start-line="65" selection-start-column="54" selection-end-line="65" selection-end-column="54" />
-          <folding>
-            <element signature="e#0#10#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#40#50#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/varargs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testpackage/class2.py" />
-    <entry file="file://$PROJECT_DIR$/testpackage/class1.py" />
     <entry file="file://$PROJECT_DIR$/c-module/simple-module.c" />
     <entry file="file://$PROJECT_DIR$/singleton.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1057,7 +866,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1067,7 +876,7 @@
         <state relative-caret-position="68">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1096,11 +905,150 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pywavefront/example/pyglet_demo.py">
+    <entry file="file://$PROJECT_DIR$/pywavefront/example/uv_sphere.mtl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pywavefront/example/earthmap.2k.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pywavefront/example/pyglet_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pywavefront/example/earth.mtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pywavefront/example/scene.mtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pywavefront/example/uv_sphere.obj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pywavefront/example/earth.obj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pywavefront/example/scene.obj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numpy_stl_2_2_0/tests/stl_corruption.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pywavefront/example/pyglet_demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numpy_stl_2_2_0/tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_meshProperties.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_mesh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_ascii.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_rotate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numpy_stl_2_2_0/tests/test_multiple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stltests/stlrenrer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
