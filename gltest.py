@@ -1,43 +1,129 @@
 import sys
-import ctypes
-import numpy
-from PyQt4 import QtGui
-from PyQt4.QtOpenGL import *
-from OpenGL.GL import *
+import math
+from PyQt5.QtCore import pyqtSignal, pyqtSlot, QPoint, QSize, Qt
+from PyQt5.QtGui import QColor
+from PyQt5.QtWidgets import (QApplication, QHBoxLayout, QOpenGLWidget, QSlider, QWidget)
+from PyQt5.Qt import QVector3D, QVector2D
+from PyQt5.Qt import QTextStream
+from PyQt5.Qt import QImage
+from PyQt5.Qt import QFile, QIODevice, QFileInfo
 
-"""opens a simple QtGl window and draws basick shapes..."""
+# helcper class for facing represenitng the stuf from .obj file
+class Face():
+    def __init__(self):
+        self.v = QVector3D()
+        self.vn = QVector3D()
+        self.f = QVector2D()
 
-class GlWidget(QGLWidget):
-    def __init__(self, parent = None):
-        super(GlWidget, self).__init__(parent)
 
-    def paintGL(self):
-        glColor3f(1.0, 0.0, 0.0)
-        glRectf(-5, -5, 5, 5)
-        glBegin(GL_LINES)
-        glVertex3f(0,0,1)
-        glVertex3f(20, 20, 0)
-        glEnd()
+class Model():
+    def __init__(self, fname):
+        self.fname = fname
+        self.textureName = None
+        self.Vertices = list()
+        self.VNormals = list()
+        self.UVs = list()
+        self.faces = list()
+
+    def render(self):
+        pass
+
+    def face(self):
+        pass
+
+    def points(self):
+        pass
+
+    def __LoadMTL(self, fn, mtlName):
+        pass
+
+    def __LoadTexture(self):
+        pass
+
+
+class Widget(QWidget):
+    def __init__(self):
+        super(Widget, self).__init__()
+        self.glWidget = GLWidget()
+        self.xSlider = self.createSlider()
+        self.ySlider = self.createSlider()
+        self.zSlider = self.createSlider()
+
+        self.xSlider.valueChanged.connect(self.glWidget.setXRotation)
+        self.glWidget.xRotationChanged.connect(self.xSlider.setValue)
+
+        self.layout = QHBoxLayout()
+        self.layout.addWidget(self.glWidget)
+        self.layout.addWidget(self.xSlider)
+        self.layout.addWidget(self.ySlider)
+        self.layout.addWidget(self.zSlider)
+        self.setLayout(self.layout)
+
+        self.setWindowTitle("GL Widget")
+
+
+    def createSlider(self):
+        slider = QSlider(Qt.Vertical)
+        slider.setRange(0, 360 * 16)
+        slider.setSingleStep(16)
+        slider.setPageStep(15 * 16)
+        slider.setTickInterval(15 * 16)
+        slider.setTickPosition(QSlider.TicksRight)
+
+        return slider
+
+
+class GLWidget(QOpenGLWidget):
+    xRotationChanged = pyqtSignal(int)
+    yRotationChanged = pyqtSignal(int)
+    zRotationChanged = pyqtSignal(int)
+
+    def __init__(self, parent=None):
+        super(GLWidget, self).__init__(parent)
+        self.object = 0
+        self.xRot = 0
+        self.yRot = 0
+        self.zRot = 0
+        self.lastPosition = QPoint()
+        self.trollTechGreen = QColor.fromCmyk(0.40, 0.0, 1.0, 0.0)
+        self.trollTechPurple = QColor.fromCmyk(0.39, 0.39, 0.0, 0.0)
 
     def initializeGL(self):
-        glClearColor(0.0, 0.0, 0.0, 1.0)
-        glClear(GL_COLOR_BUFFER_BIT)
+        self.gl = self.context().versionFunctions()
+        self.gl.initialzieOpenGLFunctions()
+        self.setClearColor(self.trollTechPurple.darker())
 
-    def resizeGL(self, w, h):
-        glMatrixMode(GL_PROJECTION)
-        glLoadIdentity()
-        glOrtho(-50, 50, -50, 50, -50.0, 50.0)
-        glViewport(0,0, w, h)
+
+    def minimumSizeHint(self):
+        return QSize(50, 50)
+
+    def sizeHint(self):
+        return QSize(400, 400)
+
+    def normalizeAngle(self, angle):
+        while angle < 0:
+            angle += 360 * 16
+        while angle > 360 * 16:
+            angle -= 360 * 16
+        return  angle
+
+    def setXRotation(self, angle):
+        angle = self.normalizeAngle(angle)
+        if (angle != self.xRot):
+            self.xRot = angle
+            self.xRotationChanged.emit(angle)
+            self.update()
 
 
 def main(args=()):
-    app = QtGui.QApplication(args)
-    glwidget = GlWidget()
-    glwidget.show()
-    return app.exec_()
+    app = QApplication(args)
+    m = Model(args[1])
+    w = Widget()
+    w.show()
+    sys.exit(app.exec_())
 
 
 if __name__ == '__main__':
-    main([])
+    main(sys.argv)
 
 
