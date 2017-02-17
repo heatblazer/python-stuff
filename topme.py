@@ -16,9 +16,10 @@ if __name__ == "__main__":
 
         for k in mapped:
             spl = k.split(" ")
+            """
+            for i in range(0, len(spl)):
+                print(str(i)+":"+str(spl[i]))
+            """
             if arg in spl:
-                print(arg)
-                # 3rd arg is the procid I need
-                unix.system("top -H -p "+str(spl[3]))
-            else:
-                print("No process with name: (" + str(arg) + ")")
+                cmd = "top -H -p "+str(spl[4])
+                unix.system(cmd)
