@@ -6,6 +6,7 @@ Simple examples demonstrating the use of GLMeshItem.
 
 ## Add path to library (just for examples; you do not need this)
 import initExample
+from stl import mesh
 
 from pyqtgraph.Qt import QtCore, QtGui
 import pyqtgraph as pg
@@ -118,8 +119,13 @@ w.addItem(m5)
 w.addItem(m6)
 
 
+#my example:
 
-    
+my_mesh = mesh.Mesh.from_file("untitled.stl")
+gl_mesh = gl.MeshData(my_mesh)
+m7 = gl.GLMeshItem(meshdata=gl_mesh, smooth=True, drawEdges=False, shader='baloon')
+m7.translate(0, 0, 1.0)
+w.addItem(m7)
 
 
 ## Start Qt event loop unless running in interactive mode.
