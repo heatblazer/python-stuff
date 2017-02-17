@@ -18,4 +18,7 @@ if __name__ == "__main__":
             spl = k.split(" ")
             if arg in spl:
                 print(arg)
+                # 3rd arg is the procid I need
                 unix.system("top -H -p "+str(spl[3]))
+            else:
+                print("No process with name: (" + str(arg) + ")")

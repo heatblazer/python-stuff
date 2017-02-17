@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20f4308c-7eac-4277-9caa-fadcb2d094a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraph/examples/untitled.stl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kivytest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pyqtgraphexample.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sdltest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/topme.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/.scene.obj.swo" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lambdas.py" afterPath="$PROJECT_DIR$/lambdas.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pyqtgraph/examples/GLMeshItem.py" afterPath="$PROJECT_DIR$/pyqtgraph/examples/GLMeshItem.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/metaarray/readMeta.m" afterPath="$PROJECT_DIR$/pyqtgraph/pyqtgraph/metaarray/readMeta.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/topme.py" afterPath="$PROJECT_DIR$/topme.py" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,21 +37,11 @@
       <file leaf-file-name="topme.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/topme.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="293">
+              <caret line="23" column="65" lean-forward="false" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
               <folding>
                 <element signature="e#20#30#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmEdu3.5/system/python_stubs/-1247971765/builtins.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="4784" column="8" lean-forward="false" selection-start-line="4784" selection-start-column="8" selection-end-line="4784" selection-end-column="8" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -892,6 +873,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#22#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -899,14 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="3538" column="8" lean-forward="false" selection-start-line="3538" selection-start-column="8" selection-end-line="3538" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmEdu3.5/system/python_stubs/-1247971765/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="4784" column="8" lean-forward="false" selection-start-line="4784" selection-start-column="8" selection-end-line="4784" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -918,10 +894,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/.PyCharmEdu3.5/system/python_stubs/-1247971765/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="4784" column="8" lean-forward="false" selection-start-line="4784" selection-start-column="8" selection-end-line="4784" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/topme.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="293">
+          <caret line="23" column="65" lean-forward="false" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
           <folding>
             <element signature="e#20#30#0" expanded="true" />
           </folding>
