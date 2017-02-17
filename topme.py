@@ -16,10 +16,12 @@ if __name__ == "__main__":
 
         for k in mapped:
             spl = k.split(" ")
-            """
-            for i in range(0, len(spl)):
-                print(str(i)+":"+str(spl[i]))
-            """
+
             if arg in spl:
-                cmd = "top -H -p "+str(spl[4])
-                unix.system(cmd)
+                if spl[3] == "":
+                    cmd = "top -H -p "+str(spl[4])
+                    unix.system(cmd)
+                else:
+                    cmd = "top -H -p "+str(spl[3])
+                    unix.system(cmd)
+
